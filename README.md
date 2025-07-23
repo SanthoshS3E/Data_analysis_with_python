@@ -8,7 +8,6 @@ This project explores the **New York City Airbnb dataset** to perform:
 ✅ **Dimensionality Reduction with PCA**  
 ✅ **Price Prediction using Linear Regression & Random Forest**  
 ✅ **Recommendation-like insights for hosts**  
-✅ **Interactive Price Prediction Web App (Streamlit)**  
 
 The goal is to understand Airbnb listing trends and **predict the price per night for a given listing**.  
 
